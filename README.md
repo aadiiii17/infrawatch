@@ -5,7 +5,6 @@ A clickable prototype of a real-time infrastructure inspection platform. It has 
 - **Inspector app** (phone-style UI): check in at a site, verify location, capture evidence, fill the inspection form and export a report.
 - **Admin Command Center**: live site map, KPIs, inspector activity, issues, analytics and reports.
 
-It is a single static file (`index.html`) with no build step.
 
 https://infrawatch-pro.netlify.app
 
