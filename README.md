@@ -7,9 +7,7 @@ A clickable prototype of a real-time infrastructure inspection platform. It has 
 
 It is a single static file (`index.html`) with no build step.
 
-## Live demo
-
-https://<your-username>.github.io/infrawatch/
+https://infrawatch-pro.netlify.app
 
 ## Features
 
